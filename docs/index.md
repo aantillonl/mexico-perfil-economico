@@ -13,6 +13,7 @@ Los resultados para cada estado se muestran a continuación.
 
 La segunda métrica, es decir, la contribución de la principal actividad económica al total de la actividad económica de cada estado, se muestra en el siguiente mapa.
 
+![Map](docs/mexico_hhi_map.png)
 
 ---
 
