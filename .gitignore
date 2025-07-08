@@ -1,2 +1,10 @@
 data/*
 jupyter/*
+.metals/
+.scala-build
+.venv/
+.vscode/
+__pycache__
+.bsp
+target
+.DS_Store

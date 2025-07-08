@@ -9,11 +9,12 @@ El objetivo es simple: utilizar el conjunto de datos del Censo Económico de 201
 
 Los resultados para cada estado se muestran a continuación.
 
-> **[Insertar tabla aquí]**
+{% include_relative perfil_economico_por_estado.md %}
 
 La segunda métrica, es decir, la contribución de la principal actividad económica al total de la actividad económica de cada estado, se muestra en el siguiente mapa.
 
-> **[Insertar mapa aquí]**
+{% include_relative mexico_hhi_map.png %}\
+
 
 ---
 
