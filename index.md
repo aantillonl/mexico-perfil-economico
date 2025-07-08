@@ -1,6 +1,4 @@
-# 🧾 Perfil Económico por Estado
-
-Test
+# Perfil Económico por Estado
 
 Con el objetivo de poner en práctica un poco de Spark con datos abiertos del INEGI, se desarrolló un breve proyecto que busca realizar un perfil económico para cada estado de la República Mexicana.
 
@@ -17,9 +15,8 @@ La segunda métrica, es decir, la contribución de la principal actividad econó
 
 {% include_relative mexico_hhi_map.png %}\
 
-
 ---
 
-### 📝 Notas
+### Notas
 
 Dado que el conjunto de datos contiene un gran número de registros a diferentes niveles de granularidad, se utilizó un criterio sencillo para seleccionar valores que reflejaran la actividad económica de cada estado de manera general. Sin embargo, un análisis más detallado podría utilizar más variables.
