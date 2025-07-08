@@ -1,5 +1,7 @@
 # 🧾 Perfil Económico por Estado
 
+Test
+
 Con el objetivo de poner en práctica un poco de Spark con datos abiertos del INEGI, se desarrolló un breve proyecto que busca realizar un perfil económico para cada estado de la República Mexicana.
 
 El objetivo es simple: utilizar el conjunto de datos del Censo Económico de 2019 (el más reciente hasta la fecha), disponible en [https://www.inegi.org.mx/datosabiertos/](https://www.inegi.org.mx/datosabiertos/), y con él obtener dos métricas sencillas:
